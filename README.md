@@ -4,5 +4,3 @@ Code in Place 2020 was a 5-week introductory online Python programming course ba
 It was offered online by Stanford during the COVID-19 pandemic (April-May 2020), with 10,000 global students and 900 volunteer teachers participating from around the world.
   
 For my Code in Place final project, I created a program that makes a triptych from an original image. Users can pick an image of their choice and turn it into a triptych.
-
-Here is a video of my final project in action: https://compedu.stanford.edu/codeinplace/public/projects/1455.html
