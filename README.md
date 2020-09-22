@@ -5,4 +5,4 @@ It was offered online by Stanford University during COVID-19 pandemic (April-May
   
 For my Code in Place final project, I created a program that makes a triptych from an original image. Users can pick an image of their choice and turn it into a triptych.
 
-Here is my final project: https://compedu.stanford.edu/codeinplace/public/projects/1455.html
+Here is a video of my final project in action: https://compedu.stanford.edu/codeinplace/public/projects/1455.html
